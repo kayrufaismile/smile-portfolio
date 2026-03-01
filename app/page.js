@@ -21,10 +21,6 @@ export default function SignupPage() {
               action="#"
               method="POST"
               className="form"
-              onSubmit={(e) => {
-                e.preventDefault();
-                alert('Form placeholder — connect an email provider endpoint to make this live.');
-              }}
             >
               <label className="label">
                 Full name
