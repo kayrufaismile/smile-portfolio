@@ -16,7 +16,7 @@ export default function SignupPage() {
               This is a simple form placeholder. To make it live, replace the <b>action</b> URL with your Mailchimp,
               ConvertKit or Formspree endpoint.
             </p>
-
+                
             <form
               action="#"
               method="POST"
